@@ -3,9 +3,11 @@
 
 #include "stdafx.h"
 
-
+#include <iostream>
+using namespace std;
 int main()
 {
+	cout << "测试一下Git的代码管理\n";
     return 0;
 }
 
